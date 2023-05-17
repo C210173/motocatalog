@@ -4,7 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-.DS_Store
 
 ### STS ###
 .apt_generated
@@ -33,3 +32,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### log file ###
+*.log
+*.log.*
+*.gz
